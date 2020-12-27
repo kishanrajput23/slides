@@ -5,7 +5,7 @@
 <p align="center">
     Welcome to my collection of presentations ✨
     <br />
-    In this repository you can find my presentations from my talks, presentations, webinars and YouTube videos (Do give it a star if you like them)
+    In this repository you can find my presentations from my talks, presentations, webinars and YouTube videos- (Do give it a star if you like them)
 </p
 
 [![YouTube](./yt_flag.png)](https://youtube.com/TheLeanProgrammer?sub_confirmation=1)
